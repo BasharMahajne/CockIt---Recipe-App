@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "643926357190",
+    "firebase_url": "https://ruppinprojectandroid-default-rtdb.firebaseio.com",
+    "project_id": "ruppinprojectandroid",
+    "storage_bucket": "ruppinprojectandroid.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:643926357190:android:fed315942ac5887e04d3c7",
+        "android_client_info": {
+          "package_name": "com.devbuds.cockit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "643926357190-20loo06jlgrratlukv11gpk0bf02704d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCy8D5tss8eMBe5KtUnN2MflNKSWbEAYi8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "643926357190-20loo06jlgrratlukv11gpk0bf02704d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
